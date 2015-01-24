@@ -1,4 +1,4 @@
-![BukaCracker](/images/banner.png)
+![BukaCracker](/images/banner)
 BukaCracker
 =======================
 BukaCracker, a Java EE web app which read mangas free from Buka Manga
@@ -9,10 +9,10 @@ BukaCracker, a Java EE web app which read mangas free from Buka Manga
 ![BukaCracker](/images/BukaCracker.png)
 
 #### Manga Page
-![BukaCracker](/images/BukaCracker1.png)
-
-#### Episode Page
 ![BukaCracker](/images/BukaCracker2.png)
 
-#### Search Page
+#### Episode Page
 ![BukaCracker](/images/BukaCracker3.png)
+
+#### Search Page
+![BukaCracker](/images/BukaCracker4.png)
